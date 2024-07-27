@@ -1,0 +1,124 @@
+#parent{
+    position: relative;
+    width: 2500px;
+    height:2500px;
+    background-color: black;
+}
+#child1{
+    position: relative; 
+    width: 2000px;;
+    height:2000px;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#nep{
+    position: relative;
+     width:50px;
+     height:50px;
+     border-radius: 50%;
+}
+#child2{
+    position: relative;
+    width:1700px;
+    height: 1700px;;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#urn{
+    position: relative;
+     width:50px;
+     height:50px;
+     border-radius: 50%;
+}
+#child3{
+    position: relative;
+    width:1500px;
+    height:1500px;
+    border : 3px solid white;
+    border-radius: 50%;
+    
+}
+#stn{
+    position: relative;
+     width:50px;
+     height:50px;
+     border-radius: 50%;
+}
+#child4{
+    position: relative;
+    width:1300px;
+    height:1300px;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#jup{
+    position: relative;
+     width:50px;
+     height:50px;
+     border-radius: 50%;
+}
+#child5{
+    position: relative;
+    width:1100px;
+    height:1100px;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#mars{
+    position: relative;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+#child6{
+    position: relative;
+    width:900px;
+    height:900px;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#earth{
+    position: relative;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+#child7{
+    position: relative;
+    width:700px;
+    height:700px;
+    border : 3px solid white;
+    border-radius: 50%;
+
+}
+#venus{
+    position: relative;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+#c8{
+    position: relative;
+    width: 500px;
+    height:500px;
+    border : 3px solid white;
+    border-radius: 50%;
+}
+#mer{
+    position: relative;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+#c9{
+    position: relative;
+    width: 300px;
+    height:300px;
+    border-radius: 50%;
+}
+#sn{
+    position: relative;
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
